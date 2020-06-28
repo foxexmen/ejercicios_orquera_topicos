@@ -6,3 +6,7 @@ de la clase Toast se muestra un mensaje de que los datos fueron guardados, luego
 InputStreamReder si se obtiene true en el Toast crea un objeto por donde se pasa el dato
 devuelto por el método openFileInput, para imprimir la información que se ingresó dentro del 
 archivo txt que se va a generar se utiliza un For.
+
+Ejercicio25
+Este ejercicio reproduce un archivo .mp3 con el nombre quemado dentro del código al darle 
+clic en el boton ejecutar.
